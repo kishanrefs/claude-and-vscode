@@ -2,6 +2,8 @@
 
 A React + Vite site with setup guides and tips for pairing Claude with Visual Studio Code.
 
+**Live site:** [cluadevscode.netlify.app](https://cluadevscode.netlify.app)
+
 ## Development
 
 ```bash
